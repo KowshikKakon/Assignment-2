@@ -1,0 +1,355 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Quicksand:wght@300..700&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+.open-sans-uniquifier{
+    font-family: "Open Sans", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+  }
+  img{max-width: 100%;}
+.li-1{
+    list-style: none;
+    text-align: center;
+    
+    align-items: center;
+    margin-right: 40px;
+}
+.anc-1{
+    text-decoration: none;
+}
+
+.nav-2{
+
+    justify-content: center;
+    display: flex;
+    margin-left: 186px;
+    margin-right: 186px;
+}
+.display-flex{
+    display: flex;
+    
+}
+.header{
+    display:flex;
+    
+}
+.my-logo{margin-left: 141px;
+display: flex;}
+.my-logo1{
+
+    max-width: 129px;
+    max-height: 30px;
+    font-weight: 700;
+    font-size:2rem ;
+   
+    
+}
+.btn-primary{
+
+max-width: 197px;
+max-height: 50px;
+border-radius: 12px;
+background-color: #FEA301;
+font-weight:600 ;
+font-size:1.25rem ;
+padding:10px 60px;
+
+}
+.boyz{
+
+    display:flex;
+    margin: 0 141px;
+}
+.boyz-1{
+
+    padding:122px 50px 122px 0px;
+   max-width: 640px;
+
+
+}
+.shared-color{
+
+    background-color: rgba(255, 255, 255, 1);
+}
+/* standard curriculum */
+
+.standard{display:flex;
+    justify-content: center;
+    align-items: center;
+    justify-items:center ;
+    gap:28px
+}
+.standard-1{
+
+justify-content: center;
+align-items: center;
+justify-items:center ;
+text-align: center;
+max-width: 376px;
+max-height: 476px;
+font-weight:500;
+font-size: 0.94rem;
+box-shadow: 0 0 28px 0.94px #000000;
+
+}
+.curriculumn{
+margin-top: 60px;
+margin-bottom: 80px;
+    text-align: center;
+}
+
+.s-1{
+
+
+    background-color:rgba(222, 245, 255, 1);
+}
+.s-2{
+
+
+    background-color:rgba(255, 244, 220, 1);
+}
+.s-3{
+
+    background-color: rgba(242, 232, 255, 1);
+}
+.my-banner{
+
+background-image: url('./assets/bg.png');
+
+margin-bottom: 200px;
+
+}
+
+/* child part */
+
+.overall
+{
+width: 540.27px;
+height: 630.52px;
+flex-direction: column;
+align-items: center; /* Horizontally centers child elements */
+justify-content: center; /* Vertically centers child elements (if needed) */
+
+
+}
+
+.date{
+
+
+position: relative;
+top: -15px;
+
+
+}
+.first-overall{
+   gap:18px;
+
+    display:flex;
+    margin-left: 140px;
+    
+}
+.pic-grids{
+
+
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap:19px;
+}
+.todler-1{
+    margin-top: 33px;
+    margin-bottom: 47px;
+}
+.date-common {
+    position: relative;
+    top: -20px; /* Moves the button upward */
+    margin-left: 38px;
+    margin-right: 125px;
+    
+   
+    padding: 8px 16px; /* Adjust button size */
+   
+   
+    
+   
+    
+    
+  }
+  .my-ones{
+
+    background-color: rgba(149, 178, 38, 1);
+    border-radius:47px;
+  }
+  .date-3{
+
+    background-color: rgba(93, 88, 240, 1);
+    border-radius: 47px;
+  }
+  .upper-date{
+
+
+    margin-left: 38px;
+    margin-right: 327px;
+    border-radius: 47px;
+    background-color: rgba(60, 216, 232, 1);
+
+  }
+  .view-btn{
+    display: flex;
+justify-content: center;
+align-items: center;
+
+  }
+  .my-toddler{
+
+    margin-bottom: 190px;
+  }
+  .my-stories{
+
+
+    text-align: center;
+  }
+  /* bottopm css */
+  .school-kids {
+    display: flex;
+    align-items: center;
+    gap: 10px; /* Space between image and text */
+  }
+  .upper-kids{
+
+
+    max-width: 399px;
+    /*margin-left: 147px;*/
+   color:white
+    
+  }
+  .school{
+
+margin-left: 172px;
+
+  }
+  .botttoom-part{
+
+    display: flex;
+background-color: rgba(1, 172, 253, 1);
+  }
+  .late-images{
+
+margin-left: 241px;
+
+  }
+  .botttoom-part{
+
+    justify-content: center;
+  }
+  
+  .botttoom-part{color:white;
+  }
+
+
+  /* enroll button */
+  .enroll{
+
+
+    width: 197px;
+    height: 50px;
+    background-color: #111111;
+    border-radius: 12px;
+    color:white;
+
+  }
+  .boyz-2{
+
+    color: orange;
+    font-weight: 700;
+    font-size: 3.5rem;
+  }
+  .vision{
+ color:skyblue;
+ font-weight: 700;
+ font-size: 3.5rem;
+
+  }
+  .main-boy{
+
+font-weight: 700;
+
+font-size:3.5rem ;
+  }
+  .btn-1{
+background-color: rgba(100, 200, 255, 1);
+
+  }
+  .btn-2{
+
+    background-color: rgba(240, 170, 0, 1);
+  }
+  .btn-3{
+
+    background-color: rgba(135, 0, 255, 1);
+  }
+  .view-btn .my-view{
+background-color: black;
+color: white;
+border-radius: 12px;
+width:197px ;
+font-weight:700;
+font-weight: 1.25rem;
+height: 50px;
+
+
+  }
+  .hamburger{
+
+width:30px;
+height: 30px;;
+
+  }
+  .my-logo{
+
+    justify-content: space-between;
+  }
+  .blocking{
+
+    display:none;
+  }
+
+ 
+
+  @media only screen and (max-width: 576px) {
+    .blocking {
+        display: block;
+       
+        
+    }
+    
+    .active{
+
+        display: none;
+    }
+    .number-2{
+
+        display: flex;
+        flex-direction:column-reverse;
+    }
+    .standard{
+    display: grid;
+        grid-template-columns: repeat(1,1fr);
+
+    }
+    .overall{
+        display: none;
+    }
+    .my-zone{
+display: grid;;
+       
+       grid-template-columns: repeat(2,1fr);
+    }
+    .botttoom-part{
+        display:grid;
+        grid-template-columns: repeat(1,1fr);
+    }
+
+    
+  }
